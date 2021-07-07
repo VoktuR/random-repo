@@ -5,8 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.rav</groupId>
-    <artifactId>creational-design-patterns</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>behavioral-design-patterns</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
