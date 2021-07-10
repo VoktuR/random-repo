@@ -27,10 +27,6 @@ public class User {
         return isVerified;
     }
 
-    public void setVerified(boolean verified) {
-        isVerified = verified;
-    }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
