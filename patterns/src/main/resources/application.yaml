@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: products
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:mydatabase;MODE=PostgreSQL
+    username:
+    password:
+
+  h2:
+    console:
+      enabled: true
+      settings:
+        web-allow-others: false
